@@ -56,10 +56,10 @@ Our platform uses a **Supervisor Multi-Agent Orchestration Model**:
 
 - **Frontend**: React.js, HTML, CSS  
 - **Backend**: Python, Flask, Streamlit  
-- **AI/ML**: LangChain, PyTorch, Graph Neural Networks  
+- **AI/ML**: Multi-agent frameworks ( LangChain), Graph Neural Networks  
 - **APIs**: Gemini API, Groq, LinkedIn  
 - **Database**: MySQL  
-- **Deployment**:  
+- **Deployment**:  Netlify
 
 ---
 
