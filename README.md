@@ -1,3 +1,5 @@
+![Repo Banner](baner.png)
+
 # AI Career & Skills Advisor for collage & Hostel Students  
 
 **Team**: Problem Solving Blood 
