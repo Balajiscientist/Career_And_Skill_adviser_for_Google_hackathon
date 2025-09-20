@@ -2,7 +2,7 @@
 
 **Team**: Problem Solving Blood 
 **Hackathon**: Google Exchange AI Hackathon 2025  
-**Members**: Balaji Boddu, [RAJESH G], [Praneetha], [k Surya Akhil Varma],[k Yuva Shanker]
+**Members**: Balaji Boddu, RAJESH G, Praneetha, k Surya Akhil Varma,k Yuva Shanker
 
 
 ## Why It's Needed  
