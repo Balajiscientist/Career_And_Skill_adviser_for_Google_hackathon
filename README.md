@@ -68,6 +68,6 @@ Our platform uses a **Supervisor Multi-Agent Orchestration Model**:
 ## Installation  
 
 ```bash
-git clone [https://github.com/<your-repo>.git](https://github.com/Balajiscientist/Career_And_Skill_adviser_for_Google_hackathon)
+git clone (https://github.com/Balajiscientist/Career_And_Skill_adviser_for_Google_hackathon.git)
 cd Career_And_Skill_adviser_for_Google_hackathon
 pip install -r requirements.txt
